@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 248,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Steven Musil",
+            "title": "House Committee Subpoenas Big Tech CEOs Over Censorship Claims - CNET",
+            "description": "The letters accuse the companies of colluding with the Biden administration to suppress conservative voices.",
+            "url": "https://www.cnet.com/news/social-media/house-committee-subpoenas-big-tech-ceos-over-censorship-claims/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/f5c7cffff102ef27300c6309a28709921b4d79ec/hub/2023/02/16/747ea39b-1513-47ae-8fca-48ddfd57a875/gettyimages-1394254562.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2023-02-16T05:14:00Z",
+            "content": "US House Judiciary Committee Chairman Jim Jordan on Wednesday issued subpoenas to the chief executives of some of the tech industry's biggest companies as Republicans on the committee press concerns … [+1852 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Steven Musil",
+            "title": "Big Tech CEOs Hit With House Subpoenas Over Censorship Claims - CNET",
+            "description": "The letters accuse the companies of colluding with the Biden administration to suppress conservative voices.",
+            "url": "https://www.cnet.com/news/social-media/big-tech-ceos-hit-with-house-subpoenas-over-censorship-claims/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/f5c7cffff102ef27300c6309a28709921b4d79ec/hub/2023/02/16/747ea39b-1513-47ae-8fca-48ddfd57a875/gettyimages-1394254562.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2023-02-16T05:14:00Z",
+            "content": "US House Judiciary Committee Chairman Jim Jordan on Wednesday issued subpoenas to the chief executives of some of the tech industry's biggest companies as Republicans on the committee press concerns … [+1852 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Ebenizer Pinedo",
+            "title": "Apple retrasa la presentación de sus gafas de realidad mixta, pero solo un par de meses",
+            "description": "Las gafas de realidad mixta son el próximo gran producto que introducirá Apple al mercado. Sin embargo, el dispositivo se ha enfrentado a múltiples obstáculos que han perjudicado su calendario. Ahora, Mark Gurman, periodista de Bloomberg y la fuente más confi…",
+            "url": "http://hipertextual.com/2023/02/apple-retrasa-presentacion-gafas-de-realidad-mixta",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/01/gafas-realidad-mixta-apple-scaled.jpeg",
+            "publishedAt": "2023-02-16T00:59:21Z",
+            "content": "Las gafas de realidad mixta son el próximo gran producto que introducirá Apple al mercado. Sin embargo, el dispositivo se ha enfrentado a múltiples obstáculos que han perjudicado su calendario. Ahora… [+3277 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gigazine.net"
+            },
+            "author": "@GIGAZINE",
+            "title": "AppleやNetflixなどの大企業も使用するオープンソースライブラリ「core-js」をたった1人で維持する開発者が「もう限界だ」と支援を求める",
+            "description": "オープンソースのJavaScriptライブラリである「core-js」は、古いブラウザでもJavaScriptの最新機能を使えるようにするPolyfill(ポリフィル)として強い人気を誇り、オープンソースのJavaScriptトランスコンパイラであるBabelにも組み込まれています。AppleやNetflix、Spotify、Pornhubといった大企業を含む多くのウェブサイトに利用されている「core-js」のメンテナンスをたった1人で行う開発者のDenis Pushkarev(zloirock)氏が、ついに家…",
+            "url": "https://gigazine.net/news/20230216-core-js-open-source-last-chance/",
+            "urlToImage": "https://i.gzn.jp/img/2023/02/16/core-js-open-source-last-chance/00.jpg",
+            "publishedAt": "2023-02-16T04:00:00Z",
+            "content": "JavaScriptcore-jsJavaScriptPolyfill()JavaScriptBabelAppleNetflixSpotifyPornhubcore-js1Denis Pushkarev(zloirock)GitHub\r\ncore-js/2023-02-14-so-whats-next.md at master · zloirock/core-js · GitHubhttps:/… [+901 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Frank Schräer",
+            "title": "Oppo Find N2 Flip: Ein neues Flip-Phone mit äußerem Zweitdisplay für 1000 Euro",
+            "description": "Das aufklappbare Android-Smartphone mit innerem 6,8-Zoll-Display basiert auf MediaTeks Dimensity 9000 Plus Chip. Es konkurriert mit Samsungs Galaxy Z Flip4.",
+            "url": "https://www.heise.de/news/Oppo-Find-N2-Flip-Ein-neues-Flip-Phone-mit-aeusserem-Zweitdisplay-fuer-1000-Euro-7517026.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/7/0/2/5/5/2/Oppo_Find_N2_Flip_Cover-2099cf5935811954.webp",
+            "publishedAt": "2023-02-16T02:43:00Z",
+            "content": "Oppo bringt mit dem \"Find N2 Flip\" ein neues Klapphandy auf den europäischen Markt. Dieses sogenannte Flip-Phone verfügt außen über einen Zweitbildschirm, auf dem im eingeklappten Zustand etwa Nachri… [+2920 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Here’s why Apple delaying the launch of its mixed reality headset is a good thing",
+            "description": "We’ve been waiting for Apple’s mixed reality headset for a long time. Apple hasn’t even officially announced the device, but there have been a lot of rumors about it floating around the web. While analysts had been claiming that the product would be introduce…",
+            "url": "https://9to5mac.com/2023/02/15/apple-delaying-mixed-reality-headset-good-thing/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/apple-march-event-headset.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-02-16T00:33:18Z",
+            "content": "We’ve been waiting for Apple’s mixed reality headset for a long time. Apple hasn’t even officially announced the device, but there have been a lot of rumors about it floating around the web. While an… [+3522 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "Plex launches new feature for skipping TV show and movie credits, available on Apple TV and iOS",
+            "description": "Plex is out with a new feature that lets you easily skip the ending credits for any TV show or movie. Called “Credits Detection,” this is designed to let you quickly move on to the next episode of a TV show or find post-credit content. Here’s how it works.\n m…",
+            "url": "https://9to5mac.com/2023/02/15/plex-credit-detections-feature-apple-tv/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/plex-credits-detection.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-02-16T02:29:48Z",
+            "content": "Plex is out with a new feature that lets you easily skip the ending credits for any TV show or movie. Called Credits Detection, this is designed to let you quickly move on to the next episode of a TV… [+2149 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "TikTok has been working on shopping features while Instagram does the exact opposite",
+            "description": "TikTok and Instagram have become competitors as both platforms have been investing heavily in short vertical videos. However, both platforms offer more than that – and while Instagram has decided to move away from offering shopping experiences, TikTok is now …",
+            "url": "https://9to5mac.com/2023/02/15/tiktok-shopping-features/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/TikTok-shopping.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-02-16T02:25:57Z",
+            "content": "TikTok and Instagram have become competitors as both platforms have been investing heavily in short vertical videos. However, both platforms offer more than that and while Instagram has decided to mo… [+1879 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Thomas Sibilly)",
+            "title": "Audio Technica ATH-M50x Review: Still great in 2023",
+            "description": "The Audio Technica ATH-M50x is a now-classic, well-performing set of over-the-ear, studio-wired headphones that come in under $200.Audio Technica covers everything from microphones to headphones and turntables for quality audio experiences. Their headphone co…",
+            "url": "https://appleinsider.com/articles/23/02/16/audio-technica-ath-m50x-review-still-great-in-2023",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/52860-105811-IMG_3134-xl.jpg",
+            "publishedAt": "2023-02-16T00:35:14Z",
+            "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nThe Audio Technica ATH-M50x is a now-classic, well-performing set of over-the-ear, studio-wired headphones … [+4091 chars]"
+        }
+    ]
+}
